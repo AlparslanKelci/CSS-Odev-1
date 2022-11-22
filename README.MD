@@ -1,0 +1,3 @@
+CSS-ODEV-1
+EKRAN GÖRÜNTÜSÜ
+![EKRAN GÖRÜNTÜSÜ](img/SS-CSS-Odev-1.png)
