@@ -33,3 +33,15 @@ article {
     text-align: left;
     margin-left: 3%;
 }
+
+.main-text {
+    font-style: italic;
+    }
+    
+    .intro {
+    color:red;
+    }
+    
+    #outro {
+    color:green;
+    }
